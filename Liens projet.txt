@@ -1,0 +1,21 @@
+PyQt5:
+Lien GUI:
+https://www.riverbankcomputing.com/software/pyqt/download5
+
+Doc:
+https://pyqt.readthedocs.io/en/latest/
+http://zetcode.com/gui/pyqt5/
+
+
+
+KIVY:
+Lien GUI:
+https://kivy.org/doc/stable/installation/installation-windows.html
+
+Doc:
+https://kivy.org/doc/stable/gettingstarted/intro.html
+https://kivy.org/doc/stable/api-kivy.html
+
+Pour android:
+https://kivy.org/doc/stable/guide/packaging-android.html
+
