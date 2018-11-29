@@ -1,13 +1,3 @@
-PyQt5:
-Lien GUI:
-https://www.riverbankcomputing.com/software/pyqt/download5
-
-Doc:
-https://pyqt.readthedocs.io/en/latest/
-http://zetcode.com/gui/pyqt5/
-
-
-
 KIVY:
 Lien GUI:
 https://kivy.org/doc/stable/installation/installation-windows.html
